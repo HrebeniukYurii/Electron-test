@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm run start` for buolding angular app and run Electron application then
+Run `npm run start` for building angular app and run Electron application then
